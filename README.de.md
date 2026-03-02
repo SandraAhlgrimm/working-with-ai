@@ -78,7 +78,7 @@ Verwenden Sie https://www.bls.gov/emp/classifications-crosswalks/nem-onet-to-soc
 Dieses Repository ist unter CC BY 4.0 lizenziert. Eine Kopie dieser Lizenz finden Sie unter https://creativecommons.org/licenses/by/4.0/. Für die Zitierung dieses Repositorys verwenden Sie bitte die nachstehende Angabe.
 
 
-## Zitierung
+## Quellen
 ```
 @misc{tomlinson2025working,
       title={Working with AI: Measuring the Applicability of Generative AI to Occupations}, 
