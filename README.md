@@ -1,4 +1,7 @@
 # "Working with AI" results files
+
+🌐 **English** | [Deutsch](README.de.md)
+
 These files contain results from the paper:
 
 > Kiran Tomlinson, Sonia Jaffe, Will Wang, Scott Counts, and Siddharth Suri. Working with AI: Measuring the Applicability of Generative AI to Occupations. arXiv, 2025. https://arxiv.org/abs/2507.07935
